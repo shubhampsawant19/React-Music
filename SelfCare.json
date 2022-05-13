@@ -1,0 +1,11 @@
+{
+  "title": "Self Care Tips",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "id": "Once you are Awake  ", "title": "Drink Plenty of Water", "releaseYear": "3-4 litres a day" },
+    { "id": "Breakfast", "title": "Options today: Eggs, Avocado, Milk/Orange Juice, 2 slices of bread", "releaseYear": "Good Morning!!" },
+    { "id": "Bathroom is waiting!", "title": "Cleanliness is next to godliness", "releaseYear": "Have a good day" },
+    { "id": "Lunch time", "title": "Check Diet You for todays lunch", "releaseYear": "Fist full of rice is fine" },
+    { "id": "Warning!!", "title": "No Earbuds while on road!", "releaseYear": "I care about you" }
+  ]
+}
